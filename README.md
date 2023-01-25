@@ -1,5 +1,2 @@
 # ros_docker
-# ros_docker
-# ros_docker
-# ros_docker
-# ros_docker
+Мой докер для ROS
